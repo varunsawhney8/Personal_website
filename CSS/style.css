@@ -86,41 +86,9 @@ a:hover {
 }
 
 .skill-row {
-  width: 50%;
+  width: 70%;
   margin: 100px auto 100px auto;
-  text-align: left;
-}
-
-.skill-row1 {
-  width: 150px;
-  height: 150px;
-  float: left;
-  margin-right: 30px;
-  border-radius: 50%;
-}
-
-.skill-row2 {
-  width: 150px;
-  height: 150px;
-  float: right;
-  margin-left: 30px;
-  border-radius: 50%;
-}
-
-.skill-row3 {
-  width: 150px;
-  height: 150px;
-  float: left;
-  margin-right: 30px;
-  border-radius: 50%;
-}
-
-.skill-row4 {
-  width: 150px;
-  height: 150px;
-  float: right;
-  margin-left: 30px;
-  border-radius: 50%;
+  
 }
 
 .middle-Images {
